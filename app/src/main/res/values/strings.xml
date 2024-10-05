@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Post</string>
+    <string name="refresh">refresh</string>
+    <string name="error_text">Error Occured\n</string>
+    <string name="home_info_message">Home List Screen</string>
+    <string name="home_info_title">Exchange\n</string>
+    <string name="home_ok">it seems okay</string>
+    <string name="home_title">List of Posts </string>
+    <string name="home_light_mode">light mode\n</string>
+    <string name="home_dark_mode">Dark Mode\n</string>
+    <string name="home_card_title">List of Posts\n</string>
+    <string name="home_card_subtitle">Sub Title\n</string>
+    <string name="home_empty">Empty\n</string>
+    <string name="home_retry_error">Retry</string>
+    <string name="home_retry">retry home</string>
+    <string name="post_detail_screen">Post Detail Screen</string>
+</resources>
