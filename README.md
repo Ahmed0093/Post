@@ -1,7 +1,9 @@
 # PostsApp
 
 ## Description
-The PostsApp is a mobile application that displays Two Screens Posts List that shows title and supports paging in offline/online mode and Post Details screen that shows title and image.
+The PostsApp is a mobile application that displays Two Screens 
+1. Posts List that shows title and supports paging in offline/online mode
+2. Post Details screen that shows title and image.
 
 ## Libraries Used
 
