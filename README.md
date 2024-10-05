@@ -8,6 +8,7 @@ The PostsApp is a mobile application that displays Two Screens Posts List that s
 - [Retrofit](https://github.com/square/retrofit)
 - [Hilt](https://github.com/google/dagger) for Dependency Injection
 - [Jetpack Compose](https://developer.android.com/compose)
+- [Room](https://developer.android.com/jetpack/androidx/releases/room?hl=en)
 - [GSON](https://github.com/google/gson)
 
 ## Design and Architecture
